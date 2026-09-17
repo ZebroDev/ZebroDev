@@ -1,16 +1,32 @@
-## Hi there 👋
+# ZebroDev
 
-<!--
-**ZebroDev/ZebroDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Build useful software. Keep it open. Make it sustainable.**
 
-Here are some ideas to get you started:
+ZebroDev is an independent initiative building practical, self-hosted, and open-source software — driven by real-world developer workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 Core Principles
+
+- **Practical & Focused** — Solving real problems with minimal complexity.
+- **Self-Hostable & Private** — Own your data, own your infrastructure.
+- **Human-Directed, AI-Assisted** — *Humans decide what to build; AI helps build it.*
+
+---
+
+### 🚀 Projects
+
+#### [EnTask](https://github.com/zebrodev/entask)
+> A lightweight, self-hosted project management system designed around practical software development workflows.
+
+- 📦 Card-based task management with developer-first flexibility
+- 🔒 100% self-hostable with full data ownership
+- 🛠 Built with modern, sustainable tech
+
+---
+
+### 🤝 Philosophy
+
+ZebroDev is an ongoing experiment in modern software craftsmanship: **one developer, real problems, sustainable pace, and AI-amplified velocity**.
+
+Interested in collaborating or following the journey? Feel free to star the repos or reach out!
