@@ -30,3 +30,14 @@ ZebroDev is an independent initiative building practical, self-hosted, and open-
 ZebroDev is an ongoing experiment in modern software craftsmanship: **one developer, real problems, sustainable pace, and AI-amplified velocity**.
 
 Interested in collaborating or following the journey? Feel free to star the repos or reach out!
+
+---
+
+### ☕ Support ZebroDev
+
+ZebroDev is an independent open-source initiative. If you find the projects useful, your support helps maintain and improve them.
+
+- [Buy Me a Coffee](https://buymeacoffee.com/zebrodev ) — one-time or monthly support
+- [Ko-fi](https://ko-fi.com/zebrodev ) — one-time tip and follow
+
+You can also support the project by starring repositories, reporting issues, sharing feedback, or contributing code.
