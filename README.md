@@ -16,7 +16,7 @@ ZebroDev is an independent initiative building practical, self-hosted, and open-
 
 ### 🚀 Projects
 
-#### [EnTask](https://github.com/ZebroDev/Entask)
+#### [Entask](https://github.com/ZebroDev/Entask)
 > A lightweight, self-hosted project management system designed around practical software development workflows.
 
 - 📦 Card-based task management with developer-first flexibility
